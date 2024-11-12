@@ -1,0 +1,17 @@
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\bin\Debug\net8.0\SanaCommerce.Application.deps.json
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\bin\Debug\net8.0\SanaCommerce.Application.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\bin\Debug\net8.0\SanaCommerce.Application.pdb
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\bin\Debug\net8.0\SanaCommerce.Domain.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\bin\Debug\net8.0\SanaCommerce.Domain.pdb
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.csproj.AssemblyReference.cache
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.AssemblyInfoInputs.cache
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.AssemblyInfo.cs
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaComm.C8594D84.Up2Date
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\refint\SanaCommerce.Application.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.pdb
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\ref\SanaCommerce.Application.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\bin\Debug\net8.0\SanaCommerce.Application.runtimeconfig.json
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Application\obj\Debug\net8.0\SanaCommerce.Application.genruntimeconfig.cache

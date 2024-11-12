@@ -1,0 +1,13 @@
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\bin\Debug\net8.0\SanaCommerce.Domain.deps.json
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\bin\Debug\net8.0\SanaCommerce.Domain.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\bin\Debug\net8.0\SanaCommerce.Domain.pdb
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.AssemblyInfo.cs
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\refint\SanaCommerce.Domain.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.pdb
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\ref\SanaCommerce.Domain.dll
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\bin\Debug\net8.0\SanaCommerce.Domain.runtimeconfig.json
+C:\Users\spati\source\repos\SanaCommerce\SanaCommerce.Domain\obj\Debug\net8.0\SanaCommerce.Domain.genruntimeconfig.cache

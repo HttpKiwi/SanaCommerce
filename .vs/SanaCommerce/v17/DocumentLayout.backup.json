@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|solutionrelative:sanacommerce.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|solutionrelative:sanacommerce.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|solutionrelative:sanacommerce.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A576E6-50E5-41C3-9089-33411EEDDA75}|SanaCommerce.Infrastructure\\SanaCommerce.Infrastructure.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.infrastructure\\migrations\\20241006230430_intialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A576E6-50E5-41C3-9089-33411EEDDA75}|SanaCommerce.Infrastructure\\SanaCommerce.Infrastructure.csproj|solutionrelative:sanacommerce.infrastructure\\migrations\\20241006230430_intialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A576E6-50E5-41C3-9089-33411EEDDA75}|SanaCommerce.Infrastructure\\SanaCommerce.Infrastructure.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.infrastructure\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A576E6-50E5-41C3-9089-33411EEDDA75}|SanaCommerce.Infrastructure\\SanaCommerce.Infrastructure.csproj|solutionrelative:sanacommerce.infrastructure\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A576E6-50E5-41C3-9089-33411EEDDA75}|SanaCommerce.Infrastructure\\SanaCommerce.Infrastructure.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.infrastructure\\migrations\\20241006230430_intialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A576E6-50E5-41C3-9089-33411EEDDA75}|SanaCommerce.Infrastructure\\SanaCommerce.Infrastructure.csproj|solutionrelative:sanacommerce.infrastructure\\migrations\\20241006230430_intialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.server\\sanacommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{882D635E-597B-4796-898B-A0F4357FE135}|SanaCommerce.Server\\SanaCommerce.API.csproj|solutionrelative:sanacommerce.server\\sanacommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFFF906-2B05-47E1-AE5C-CE6F4E77E2C1}|SanaCommerce.Application\\SanaCommerce.Application.csproj|c:\\users\\spati\\source\\repos\\sanacommerce\\sanacommerce.application\\sanacommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CFFF906-2B05-47E1-AE5C-CE6F4E77E2C1}|SanaCommerce.Application\\SanaCommerce.Application.csproj|solutionrelative:sanacommerce.application\\sanacommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SanaCommerce.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SanaCommerce.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:19:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "SanaCommerce.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\appsettings.json",
+              "RelativeToolTip": "SanaCommerce.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T23:16:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SanaCommerce.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\appsettings.Development.json",
+              "RelativeToolTip": "SanaCommerce.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T23:16:17.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241006230430_IntialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.Designer.cs",
+              "RelativeToolTip": "SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:15:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SanaCommerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "SanaCommerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:09:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241006230430_IntialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.cs",
+              "RelativeDocumentMoniker": "SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.cs",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.cs",
+              "RelativeToolTip": "SanaCommerce.Infrastructure\\Migrations\\20241006230430_IntialMigration.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowI4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:04:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanaCommerce.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Application\\SanaCommerce.Application.csproj",
+              "RelativeDocumentMoniker": "SanaCommerce.Application\\SanaCommerce.Application.csproj",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Application\\SanaCommerce.Application.csproj",
+              "RelativeToolTip": "SanaCommerce.Application\\SanaCommerce.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T19:22:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanaCommerce.API.csproj",
+              "DocumentMoniker": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\SanaCommerce.API.csproj",
+              "RelativeDocumentMoniker": "SanaCommerce.Server\\SanaCommerce.API.csproj",
+              "ToolTip": "C:\\Users\\spati\\source\\repos\\SanaCommerce\\SanaCommerce.Server\\SanaCommerce.API.csproj",
+              "RelativeToolTip": "SanaCommerce.Server\\SanaCommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T19:21:30.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
